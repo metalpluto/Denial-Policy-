@@ -1,7 +1,7 @@
 """
 main.py
 
-CLI for the Denial Policy RAG Assistant.
+CLI for the Denial Policy RAG Assistant
 
 Usage:
     python main.py --query "How long do I have to file an appeal?"

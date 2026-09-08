@@ -25,7 +25,7 @@ the same technique already used in the Medical Claim Denial Analyzer
 project. Given a question, chunks are ranked by cosine similarity to
 the query.
 
-TF-IDF is a **sparse, lexical** retrieval method — it matches based on
+TF-IDF is a **sparse, lexical** retrieval method it matches based on
 shared vocabulary between the query and the text, not semantic
 meaning. This is a deliberate scope decision, not an oversight: it
 keeps the whole retrieval step dependency-light, deterministic, and

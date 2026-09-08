@@ -14,8 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Now copy the actual application code
 COPY . .
 
-# GOOGLE_API_KEY is intentionally NOT set here  it should never be
-# baked into an image. Pass it at run time instead (see README),
+# GOOGLE_API_KEY is intentionally NOT set here  it should never be baked into an image. Pass it at run time instead (see README)
 # so the key never ends up committed to a Docker layer or pushed to
 # a registry by accident.
 
