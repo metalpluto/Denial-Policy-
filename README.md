@@ -5,12 +5,7 @@ medical claim denial policy, grounded in a small local knowledge base
 of policy documents. Ask a question e.g. *"How long do I have to
 file an appeal?"* and it retrieves the most relevant policy passages,
 then (optionally) generates a direct answer citing which document it
-came from.
-
-Built as a companion piece to the [Medical Claim Denial
-Analyzer](../medical-claim-analyzer) project, extending the same
-domain with a retrieval-based question-answering capability rather
-than classification.
+came from
 
 ## Why this design
 
