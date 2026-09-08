@@ -1,0 +1,28 @@
+Medical Necessity Determination Policy
+
+A service is considered medically necessary when it is required to
+diagnose or treat a patient's condition, consistent with generally
+accepted standards of medical practice, and not primarily for the
+convenience of the patient or provider.
+
+Claims may be denied for lack of medical necessity when the submitted
+diagnosis code does not clinically support the billed procedure, when a
+less costly and equally effective alternative was available and not
+attempted first, or when documentation does not establish that the
+service was appropriate given the patient's presenting symptoms.
+
+Common triggers for medical necessity denials include advanced imaging
+(MRI, CT) ordered without a documented failed course of conservative
+treatment, and procedures billed with a diagnosis code that reviewers
+consider only loosely related to the service performed.
+
+To appeal a medical necessity denial, the provider should submit clinical
+notes establishing the presenting symptoms, prior treatments attempted,
+and the clinical reasoning connecting the diagnosis to the necessity of
+the specific procedure performed. A peer-to-peer review with the payer's
+medical director may also be requested.
+
+Medical necessity denials are distinct from coding errors: a medical
+necessity denial means the payer disputes whether the service should
+have been performed at all, not whether it was billed with the correct
+code.

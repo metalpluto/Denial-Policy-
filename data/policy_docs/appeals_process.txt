@@ -1,0 +1,29 @@
+Appeals Process Policy
+
+Providers have 180 days from the date of a denial notice to submit a
+first-level appeal, unless the payer contract specifies a different
+window. An appeal must include a written statement explaining why the
+denial should be reversed, along with any supporting clinical
+documentation not already submitted with the original claim.
+
+Appeals fall into two general categories: clinical appeals, which
+dispute a payer's medical necessity or level-of-care determination and
+are typically reviewed by a medical director, and administrative
+appeals, which dispute non-clinical issues such as eligibility
+determinations or timely filing decisions.
+
+If a first-level appeal is denied, providers may generally request a
+second-level appeal, and in many cases an independent external review
+after internal appeals are exhausted. External review timelines and
+eligibility vary by payer and by state regulation.
+
+Appeals for eligibility-related denials should include proof of active
+coverage on the date of service, such as a retroactive enrollment
+confirmation or a corrected eligibility record from the payer, rather
+than clinical documentation, since the dispute is about coverage status
+rather than the appropriateness of the service itself.
+
+All appeals should reference the original claim number, the specific
+denial reason code being contested, and should be submitted through the
+payer's designated appeals channel, which may differ from the standard
+claims submission address.

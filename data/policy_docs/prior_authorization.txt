@@ -1,0 +1,27 @@
+Prior Authorization Policy
+
+Certain procedures require prior authorization from the payer before the
+service is rendered. The current prior authorization list includes
+advanced imaging (MRI, CT, PET), non-emergency inpatient admissions,
+select durable medical equipment, and specialty pharmacy infusions.
+
+A claim will be denied for missing authorization when the procedure code
+billed appears on the payer's prior authorization list and no
+authorization number is on file at the time the claim is processed. This
+denial applies regardless of whether the service was clinically
+appropriate.
+
+Retroactive authorization requests are permitted only in the following
+circumstances: emergency services where obtaining prior authorization
+was not feasible before treatment, or documented payer system errors
+that prevented submission of the request in advance.
+
+To appeal a missing authorization denial, the provider must submit a
+retroactive authorization request along with clinical documentation
+supporting medical necessity, and, where applicable, evidence of the
+emergency circumstances that prevented advance authorization.
+
+Providers are responsible for verifying authorization requirements before
+scheduling any procedure on the prior authorization list; the patient's
+insurance card or the payer's provider portal should be checked before
+each date of service, as requirements can change.

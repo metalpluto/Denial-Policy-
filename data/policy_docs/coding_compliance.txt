@@ -1,0 +1,27 @@
+Coding Compliance Policy
+
+Claims must be submitted with CPT and ICD-10 codes that accurately and
+specifically reflect the service performed and the diagnosis supporting
+it. A coding error denial occurs when the billed procedure code and
+diagnosis code do not form a clinically valid pairing under the payer's
+edit rules, even if the underlying service was appropriate.
+
+Common coding error scenarios include: unbundling, where a single
+comprehensive procedure is billed as several separate component codes to
+increase reimbursement; missing or incorrect modifiers, such as omitting
+modifier 59 to indicate a distinct procedural service performed on the
+same date as another billed service; and upcoding, where a higher-level
+service is billed than what the documentation supports.
+
+Coding error denials are corrected, not appealed in the traditional
+sense. The provider's billing team should review the medical record,
+correct the code pairing or add the appropriate modifier, and resubmit
+the claim as a corrected claim using frequency code 7, referencing the
+original claim number.
+
+A duplicate claim denial is related but distinct: it occurs when a claim
+matches an already-processed claim for the same patient, date of service,
+and procedure code. If the second submission represents a genuinely
+distinct, separately billable service, it must be resubmitted with an
+appropriate distinguishing modifier (such as modifier 59 or an X-modifier)
+rather than treated as a coding correction.

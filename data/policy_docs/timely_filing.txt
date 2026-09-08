@@ -1,0 +1,22 @@
+Timely Filing Policy
+
+All claims must be submitted within 120 days of the date of service unless
+a payer-specific contract states otherwise. Claims received after this
+window will be denied for untimely filing and are not eligible for
+standard appeal unless the provider can demonstrate a qualifying delay
+outside their control.
+
+Qualifying exceptions to the 120-day window include: retroactive patient
+eligibility determinations, coordination-of-benefits delays where a
+primary payer's determination was pending, and documented system outages
+at the clearinghouse or payer during the filing window.
+
+To contest a timely filing denial, the provider must submit proof of an
+earlier, timely submission attempt (such as a clearinghouse acceptance
+report or certified mail receipt) or documentation of a qualifying delay.
+Claims resubmitted purely due to internal processing backlog do not
+qualify for an exception.
+
+Secondary claims follow a separate 90-day window measured from the date
+of the primary payer's explanation of benefits (EOB), not the original
+date of service.

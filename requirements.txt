@@ -1,0 +1,6 @@
+scikit-learn>=1.4
+langchain-google-genai>=2.0
+python-dotenv>=1.0
+
+# dev/testing
+pytest>=8.0
