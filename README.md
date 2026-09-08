@@ -9,8 +9,7 @@ came from
 
 ## Why this design
 
-The pipeline has two stages, split the same way as the Medical Claim
-Denial Analyzer: a deterministic, fully offline core, and an optional
+The pipeline has two stages, deterministic, fully offline core, and an optional
 LLM step that requires an API key.
 
 **Retrieval (offline, no API key needed).** Documents are split into
