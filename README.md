@@ -82,7 +82,7 @@ python -m pytest tests/ -v
 ```
 
 The generation step isn't unit tested here since it depends on a live
-LLM call; tests focus on the deterministic retrieval core.
+LLM call tests focus on the deterministic retrieval core.
 
 **Verified retrieval accuracy:** across five representative questions
 (one per policy category), the correct source document appeared in the
@@ -94,18 +94,18 @@ Known Limitations.
 - **TF-IDF retrieval is lexical, not semantic.** It matches on shared
   words, not meaning. A query like *"How many days do I have to submit
   a claim?"* retrieved `timely_filing.txt` only at rank 3 (score
-  0.237, top-3), not rank 1 — because the query's phrasing shares
+  0.237, top-3), not rank 1 because the query's phrasing shares
   little exact vocabulary with the document's wording ("120 days,"
   "filing window"). At `top_k=2`, the same query for *"What happens
   if I file a claim late?"* misses `timely_filing.txt` entirely. A
   production system would likely use dense embeddings (e.g. a
   sentence-transformer model) or a hybrid sparse+dense approach to
-  close this gap — that's the direct next step this project doesn't
+  close this gap that's the direct next step this project doesn't
   yet take, by design, to keep the retrieval core dependency-free.
 
 - **Small, synthetic knowledge base.** Five documents, twelve total
   chunks. Real payer policy documents are longer, more numerous, and
-  more inconsistent in phrasing across payers — a real deployment
+  more inconsistent in phrasing across payers a real deployment
   would need a much larger and more varied corpus, at which point
   TF-IDF's lexical-matching weakness would compound further.
 
